@@ -1,0 +1,29 @@
+
+
+
+table{
+    border:1px solid black ;
+    width: 100%;
+    background: lightblue;
+}
+
+td{
+    border: 1px solid black;
+    background: white;
+}
+
+tfoot{
+    border: black ;
+    width: 100%;
+    background: lightblue;
+}
+
+.smartgoal{
+    background: pink;
+    width: ;
+
+}
+
+#tableDiv{
+
+}
