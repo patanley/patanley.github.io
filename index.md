@@ -16,10 +16,11 @@ Reported road casualty statistics in Great Britain: interactive dashboard
 From 2018
 
 <img src="images/C_Report2.png?raw=true"/>
+
 [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](https://powerbi.microsoft.com/en-ca/landing/free-account/?&ef_id=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&OCID=AIDcmmf49tiyrn_SEM_Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&gclid=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB) [![](https://img.shields.io/badge/MicrosoftSQLserver-white?logo=MicrosoftSQLserver)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) [![](https://img.shields.io/badge/VisualStudio-white?logo=VisualStudio)](https://visualstudio.microsoft.com/)
 
-
-[View report on Github](https://github.com/patanley/Project-Reported-Road-Casualty-Statistics)
+`View report on Github`
+[Casualty Report Github](https://github.com/patanley/Project-Reported-Road-Casualty-Statistics)
 
 
 ---
