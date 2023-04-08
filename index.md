@@ -11,7 +11,11 @@ Hate speech detection is the automated task of determining whether a piece of te
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
+## Project: Recreation of Great Britain Road Casualty Report on Power BI
+Reported road casualty statistics in Great Britain: interactive dashboard
+From 2018
 
+<img src="images/C_Report1.png?raw=true" />
 
 
 ---
