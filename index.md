@@ -21,6 +21,14 @@ From 2018
 
 [View Casualty Report on Github](https://github.com/patanley/Project-Reported-Road-Casualty-Statistics)
 
+---
+## Project: Customer Segmentation
+Segment Shopping Customers involves the follwing steps
+* `Problem Statement` In order to plan an effective marketing strategy, the marketing team must have a clear understanding of the target customers.
+* `Content` You are to identify the primary shopping groups based on income, age, and mall preferences.
+* Specify the number of ideal groups and a label for each group.
+
+The Approach
 
 ---
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
