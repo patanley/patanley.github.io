@@ -17,6 +17,14 @@ From 2018
 
 <img src="images/C_Report1.png?raw=true" />
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+
+[![](https://img.shields.io/badge/-PowerBI-E74536?style=flat&logo=matplotlib&logoColor=white)](https://powerbi.microsoft.com/en-ca/landing/free-account/?&ef_id=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&OCID=AIDcmmf49tiyrn_SEM_Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&gclid=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB)
+[![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=SSMS&logoColor=white)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+[![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+
+[View report on Github](https://github.com/patanley/Project-Reported-Road-Casualty-Statistics)
+
 
 ---
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
