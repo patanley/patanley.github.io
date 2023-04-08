@@ -1,4 +1,4 @@
-## Matt Chapman's data science and ML portfolio project
+## Prosper's data science and machine learning portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
