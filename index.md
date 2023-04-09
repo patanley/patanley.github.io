@@ -15,8 +15,8 @@ From 2018
 ---
 ## Project: Customer Segmentation
 Segment Shopping Customers involves the follwing steps
-* `Problem Statement` In order to plan an effective marketing strategy, the marketing team must have a clear understanding of the target customers.
-* `Content` You are to identify the primary shopping groups based on income, age, and mall preferences.
+* Problem Statement: In order to plan an effective marketing strategy, the marketing team must have a clear understanding of the target customers.
+* Content: You are to identify the primary shopping groups based on income, age, and mall preferences.
 * Specify the number of ideal groups and a label for each group.
 
 The Approach
