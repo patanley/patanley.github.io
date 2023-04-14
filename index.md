@@ -4,12 +4,18 @@
 
 ---
 ## Current Project: World Development Indicators
-progress - on going.
+`Progress - on going.`
 
 The objective of this data analytics project is to analyze and visualize the concept of economic growth, its definition, measurement, and the challenges associated with it. 
 The project will focus on identifying patterns and trends in economic growth by analyzing GDP growth and GDP per capita growth over time, highlighting the most significant countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
 
-<img src="images/C_Report2.png?raw=true"/>
+<img src="images/WDI.png?raw=true"/>
+
+[![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](https://powerbi.microsoft.com/en-ca/landing/free-account/?&ef_id=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&OCID=AIDcmmf49tiyrn_SEM_Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&gclid=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB) [![](https://img.shields.io/badge/MicrosoftSQLserver-white?logo=MicrosoftSQLserver)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) [![](https://img.shields.io/badge/VisualStudio-white?logo=VisualStudio)](https://visualstudio.microsoft.com/)
+
+
+> 💡 [View World Development Indicators report on GitHub](https://github.com/patanley/World-Development-Indicators)
+
 ---
 
 ## Project: Recreation of Great Britain Road Casualty Report on Power BI
