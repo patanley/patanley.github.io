@@ -3,6 +3,14 @@
 ## Selected projects in data analytics and machine learning.
 
 ---
+## Current Project: World Development Indicators
+progress - on going.
+
+The objective of this data analytics project is to analyze and visualize the concept of economic growth, its definition, measurement, and the challenges associated with it. 
+The project will focus on identifying patterns and trends in economic growth by analyzing GDP growth and GDP per capita growth over time, highlighting the most significant countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
+
+<img src="images/C_Report2.png?raw=true"/>
+---
 
 ## Project: Recreation of Great Britain Road Casualty Report on Power BI
 Reported road casualty statistics in Great Britain: interactive dashboard
