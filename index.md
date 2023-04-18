@@ -8,7 +8,7 @@
 The objective of this data analytics project is to analyze and visualize the concept of economic growth, its definition, measurement, and the challenges associated with it. 
 The project will focus on identifying patterns and trends in economic growth by analyzing GDP growth and GDP per capita growth over time, highlighting the most significant countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
 
-``Urbanization and economic prosperity are strongly correlated as the following visualization shows. In most countries with a GDP per capita higher than 20,000 international-$ more than 60% of the population lives in cities.``
+* Urbanization and economic prosperity are strongly correlated as the following visualization shows. In most countries with a GDP per capita higher than 20,000 international-$ more than 60% of the population lives in cities.
 
 <img src="images/Urbanization&Prosperity.gif"/>
 
