@@ -14,8 +14,11 @@ The project will focus on identifying patterns and trends in economic growth by 
 
 [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](https://powerbi.microsoft.com/en-ca/landing/free-account/?&ef_id=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&OCID=AIDcmmf49tiyrn_SEM_Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&gclid=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB) [![](https://img.shields.io/badge/MicrosoftSQLserver-white?logo=MicrosoftSQLserver)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) [![](https://img.shields.io/badge/VisualStudio-white?logo=VisualStudio)](https://visualstudio.microsoft.com/)
 
+> 💡 [Click on the link to watch video](https://www.youtube.com/watch?v=2yJTvk3s2yI)
 
 > 💡 [View World Development Indicators report on GitHub](https://github.com/patanley/World-Development-Indicators)
+
+
 
 ---
 
